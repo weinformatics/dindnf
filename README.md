@@ -1,5 +1,5 @@
-# dindnf
-dockerindocker and nextflow
+# dindnf v1.0.0
+dockerindocker and nextflow for data analysis
 
 [![License](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](LICENSE)
 

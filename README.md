@@ -9,5 +9,4 @@ It's based on alpine 3.9 image, which is a very small Linux distribution, which 
 
 
 ## WI lists for nextflow/nf-core
-* hhh
-* hgh
+* will add in another release version

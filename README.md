@@ -15,4 +15,4 @@ nextflow: 19.04.1.5072
 ## WI lists for nextflow/nf-core
 * will add in another release version
 
-You can pull this image at docker hub, just 'docker push weinformatics/dindnf:v1.0.0' 
+You can pull this image at docker hub, just 'docker pull weinformatics/dindnf:v1.0.0' 

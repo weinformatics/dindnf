@@ -8,4 +8,4 @@ ENV NXF_OPTS='-Xms1g -Xmx30g'
 # RUN nextflow -e ''
 # RUN nextflow -e ''
 # RUN docker -e ''
-# 我的测试
+# more

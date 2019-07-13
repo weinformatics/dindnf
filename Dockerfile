@@ -1,4 +1,4 @@
-FROM docker:18.09.6-dind
+FROM docker:18.09.7-dind
 #不可以加入否则开不了COPY daemon.json /etc/docker
 RUN apk update && apk add bash && apk add coreutils && apk add curl && apk add openjdk8
 RUN curl -fsSL https://get.nextflow.io | bash

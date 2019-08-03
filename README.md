@@ -9,7 +9,7 @@ Dockerfile was a ideal method for docker image. Nextflow was an easy way for bio
 It's based on Alpine Linux 3.10 image, which is a very small Linux distribution, which show more safety as its small size. The Dockerfile will update often depend on the docker and nextflow version. For its most utility use, [nf-core](https://github.com/nf-core) project will be most forked.
 Summary info:
 * OS: Alpine Linux 3.10
-* docker: 18.09.7
+* docker: 19.03.1
 * nextflow: 19.04.1.5072
 
 
